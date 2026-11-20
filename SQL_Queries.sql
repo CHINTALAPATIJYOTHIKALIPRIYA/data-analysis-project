@@ -42,5 +42,5 @@ SELECT Discount,
        SUM(Profit) AS Total_Profit
 FROM data
 GROUP BY Discount
-ORDER BY Discoun;
+ORDER BY Discount;
 
